@@ -34,4 +34,13 @@
         tools:layout_editor_absoluteX="182dp"
         tools:layout_editor_absoluteY="487dp" />
 
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/azul"
+        android:text="prueba1"
+        tools:layout_editor_absoluteX="285dp"
+        tools:layout_editor_absoluteY="397dp" />
+
 </android.support.constraint.ConstraintLayout>
